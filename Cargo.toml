@@ -1,0 +1,9 @@
+[package]
+name = "2048"
+version = "0.1.0"
+authors = ["Neil Ashford <ashfordneil0@gmail.com>"]
+
+[dependencies]
+termion = "1.0"
+rand = "0.3"
+itertools = "*"
